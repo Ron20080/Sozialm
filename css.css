@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#app {
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+#signup, #chat {
+    text-align: center;
+}
+
+#chat h2 {
+    margin-bottom: 10px;
+}
+
+#chat ul {
+    list-style: none;
+    padding: 0;
+}
+
+#chat li {
+    margin-bottom: 5px;
+}
